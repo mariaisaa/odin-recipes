@@ -1,5 +1,25 @@
-#intro-content {
-    margin-left: auto;
-    margin-right: auto;
+main{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFE8A9;
+}
+
+.intro{
+    background-color: #D3E4A0;
+}
+
+#title-content {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFE8A9;
 
 }
+
